@@ -1,6 +1,6 @@
 'use strict';
 window.CustomSubstackWidget = {
-    substackUrl: "pelzxchange.substack.com",
+    substackUrl: "HoneydropXchange.substack.com",
     placeholder: "Enter your email address",
     buttonText: "Subscribe",
     theme: "custom",
